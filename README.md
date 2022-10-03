@@ -1,6 +1,4 @@
-# pycones2022
-
-## "IA Conversacional <3 Python"
+# "IA Conversacional <3 Python"
 Nieves Ábalos
 Keynote @ PyConEs (1/10/2022) Granada
 
